@@ -1,0 +1,13 @@
+.bg {
+    width: 100%;
+    opacity: 0.6;
+}
+
+.header {
+    background-image: url('https://cdn.onebauer.media/one/empire-tmdb/films/2062/images/sFpGI08aeHIRKlLi9SxLyYrRyZ8.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg');
+    min-height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+}
