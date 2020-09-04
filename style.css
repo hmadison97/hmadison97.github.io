@@ -47,3 +47,14 @@ nav {
     font-size: 17px;
     font-style: normal;
 }
+
+#map {
+    height: 90%;
+}
+
+.brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -27px !important;
+    display: inline-block;
+}
