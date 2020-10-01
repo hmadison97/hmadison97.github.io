@@ -11,6 +11,23 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    text-align: center;
+    position: relative;
+}
+
+
+.name {
+    position:absolute;
+    /* width:60%; */
+    left: 0;
+    bottom:0;
+    text-align:center;
+    white-space: nowrap;
+}
+
+.tablecenter {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -36,6 +53,12 @@ p {
 }
 
 h1 {
+    font-family: futura-pt,sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+h2 {
     font-family: futura-pt,sans-serif;
     font-weight: 1000;
     font-style: normal;
