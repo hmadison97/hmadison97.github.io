@@ -22,7 +22,10 @@
       map = new google.maps.Map(document.getElementById('map'), {
         zoom: 2,
         center: {lat: 21.340627, lng: -32.729438},
-        gestureHandling: 'greedy'
+        gestureHandling: 'greedy',
+        streetViewControl: false,
+        mapTypeId: google.maps.MapTypeId.TERRAIN,
+        mapTypeControl: false
 
       });
 
