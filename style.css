@@ -16,6 +16,15 @@
 }
 
 
+.navbar-brand-special {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+    top:2px;
+}
+
+
+
 .name {
     position:absolute;
     /* width:60%; */
