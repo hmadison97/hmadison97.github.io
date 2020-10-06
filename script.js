@@ -26,7 +26,6 @@
         streetViewControl: false,
         mapTypeId: google.maps.MapTypeId.TERRAIN,
         mapTypeControl: false
-
       });
 
       google.maps.event.addListener(map, "click", function(event) {
