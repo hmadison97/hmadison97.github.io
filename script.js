@@ -39,7 +39,7 @@
       const infoMorocco = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
+          <img width="50%" src="https://lh3.googleusercontent.com/PDPuh-z5MtFSZHuGqtimADrAJ9XPogHM0fEbqERknXEDqR91zsuC-UNO52u_uam1QUg97ao6zD-Xtn1yZgxUc6L2Hdfn0ctQ6q-rruaMzsWWUBATzr071oOgLlUDOn7eBX6_35ZE-hA=w2400">
           <p>Stuff about morocco</p>
         </div>
         `,
@@ -65,7 +65,7 @@
       const infoSevilla = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
+          <img width="50%" src="https://lh3.googleusercontent.com/2-zq8o3MDlSm2xfCISrXlFTvZrGdflQTiHjtPbJiz9tTvJVICnP-BzDckOYwsDfv94JJRLCdDY9e-GZJGFTP3_JWxuFUkCthORqHAl0DIl_gRMgPlG9abYYuC_OEIZ-z49KbW2Zctbs=w2400">
           <p>Stuff about sevilla</p>
         </div>
         `,
