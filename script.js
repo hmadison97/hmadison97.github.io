@@ -48,6 +48,7 @@
         infoWas.close();
         infoOregon.close();
         infoSD.close();
+        infoHawaii.close();
       });
 
 
@@ -537,6 +538,32 @@
         infoSD.open(map, sd);
       });
 
+
+
+        
+    // Hawaii
+      const infoHawaii = new google.maps.InfoWindow({
+        content: `
+        <div style="margin: auto; text-align: center">
+          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
+          <p>Stuff about Hawaii</p>
+        </div>
+        `,
+        maxWidth: 300
+      });
+      var HawaiiImg = {
+        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        scaledSize: new google.maps.Size(50, 50)
+      }
+      var myLatLng = new google.maps.LatLng(20.783235, -156.337735); //or wherever you want the marker placed
+      var Hawaii = new google.maps.Marker({
+          position: myLatLng,
+          map: map,
+          icon: HawaiiImg
+      });
+      Hawaii.addListener("click", () => {
+        infoHawaii.open(map, Hawaii);
+      });
 
 
 
