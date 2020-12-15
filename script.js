@@ -32,6 +32,8 @@
         infoOregon.close();
         infoSD.close();
         infoHawaii.close();
+        infoCanada.close();
+        infoTennesee.close();
       });
 
 
