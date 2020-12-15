@@ -41,11 +41,18 @@
       const infoMorocco = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <img width="50%" src="https://lh3.googleusercontent.com/PDPuh-z5MtFSZHuGqtimADrAJ9XPogHM0fEbqERknXEDqR91zsuC-UNO52u_uam1QUg97ao6zD-Xtn1yZgxUc6L2Hdfn0ctQ6q-rruaMzsWWUBATzr071oOgLlUDOn7eBX6_35ZE-hA=w2400">
-          <p>Stuff about morocco</p>
+          <p>Morocco</p>
+          <img width="100%" src="https://lh3.googleusercontent.com/PDPuh-z5MtFSZHuGqtimADrAJ9XPogHM0fEbqERknXEDqR91zsuC-UNO52u_uam1QUg97ao6zD-Xtn1yZgxUc6L2Hdfn0ctQ6q-rruaMzsWWUBATzr071oOgLlUDOn7eBX6_35ZE-hA=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/pH2iNFfSbEI-QrVXJ1Jgmn4Us6n_Ro4k70D_tbrlfnWpWp5H1IPLviPErns8hYbULRZv0_IJ_YiH_ExpnSkmG92eWsjVZNX39nABim-y1XBmGlWq9j6rj9sHsiiW9Ik7JXSzCV7biPM=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/8nijSMQ0xQkrPgtYTAHcul5FOHXpaixIoWudlv3gNueNakh3vfH8OJElzNGnXIAkxswk21nJihJHWgd2nU28U1UibQlu0SfYJLZpOYqwmSVTjQm8JhVVOYqbKYYd1yy1MQ0C0jUvgSc=w2400">        
+          <img width="100%" src="https://lh3.googleusercontent.com/b5s1900I-nf2qm8I2PjHho8OMRsLgojKOVzR4gzCbp_mM1gk8GB6L5M7V3k6rYlPfL7lEaYPwjg-u09AUKVOH3Zs4qdOjJp3p81EAVqRkS7fIUhlmPiztiI-P5OAhRHAhKGx08a8avY=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/ORo9eLtz_34Fj7cjLNuAV6V_qn4mqKb9emFRjDGwgdTZowyxLNB5L2de2cfQXnO5LEq0Mv6OTNkYW18ELTYn3wayoyJ050IYBO_Ueausx6X6eZ3LG7zwrAig1qr2NxqA7bqTpk7SVXA=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/shvInzBGa8uLcVaUpzlK_ulVsgj7XyGz-qrYXofL_BttTzAj7WjxeoTNJO1EzpzjBy67rck-J4oXNJi0g_SJOTirDDi2gnEB5KfHOrOq3Y16E3e_e4aI46othqfBi09_NUymJezf0m0=w2400">        
+          <img width="100%" src="https://lh3.googleusercontent.com/HK6BjnRThKQsz9ODIQt8EpUMVd4su6zkOXRg_m8HAjzZfhv2-nwWbqgPPWTgngzTbCi2zTux6VK9Z-I1lceFFTunQdkh8Hc4zTRBlhNnkwEm8MOP79ClTs1qFaZXS3Kf9dP_zNSy3nk=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/VOCLrJOS2nPwwE2gtvRJa_6Lf0qwzUbzPhJyJjPrb-J8NOBWVTd-a9f7GMqVqMYJ9-mex8mgc9UZ63StUon0efdeQsY6uPDu1CcmFUKwmHkmF47BLAwcxq6NtfF78o3P8nqcOCy4WB8=w2400">
         </div>
         `,
-        maxWidth: 300
+        maxWidth: 500
       });
       var moroccoImg = {
         url: "https://lh3.googleusercontent.com/PDPuh-z5MtFSZHuGqtimADrAJ9XPogHM0fEbqERknXEDqR91zsuC-UNO52u_uam1QUg97ao6zD-Xtn1yZgxUc6L2Hdfn0ctQ6q-rruaMzsWWUBATzr071oOgLlUDOn7eBX6_35ZE-hA=w2400",
