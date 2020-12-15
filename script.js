@@ -139,6 +139,10 @@
         <div style="margin: auto; text-align: center">
           <p>Tanzania</p>          
           <img width="100%" src="https://lh3.googleusercontent.com/pIUUlF2X4Fa-23Qj9eURJEMi43iRWwz0Y_D-aHZl96WPtkSzsxif6uvAyY8pOT4c5aHoA5ShlUijyetUp4SePbOI2YiXIpAk5706j5bvjgFo70tBWyKgtM9RkR5DPksjb2mhHAMSfZY=w2400">
+          <video width="100%" controls>
+            <source src="video2.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video>
           <img width="100%" src="https://lh3.googleusercontent.com/CeldpegLbbsDRdikIrUIrHFN46VA6eqa1wckWBDQMmYU3CGmY2iw4zFLSrkXW6NSUY37YNfHnrDQFGgMYjJju3jGo_iJYfmZiEGdFYdz4-_IstMIOr_d6Ey1nKXXsW1nDII-wbKEa-I=w2400">
           <img width="100%" src="https://lh3.googleusercontent.com/qmZmHhw_9ERDZ6Kh-LviK8LE4nkG9-siZDWbd0d7GGy0FxfhJ58DLhD8mnOsa1gGo-Bi_NjyoLLiOBu8CDlKIK_4oSc0vqpyP_QF7nOKdavYFkrSKnDdd8nN_i-W3FPMK1nWVKrYdnA=w2400">
           <img width="100%" src="https://lh3.googleusercontent.com/LBCEwYag7DFfB2kWM21wqoZNcoa9gsbNVkByvIoTFLMtsF4XnrcXtwwuc59rsqyzexKRmQ8Nim2766Ig09CDn4Poz75vc99rrhTcrOneNPeHElyM6y-cZ1OY-GtJT3arRAwuI_EkHN4=w2400">
@@ -587,6 +591,10 @@
         <div style="margin: auto; text-align: center">
           <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
           <p>Stuff about Hawaii</p>
+          <video width="100%" controls>
+            <source src="video1.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video>
         </div>
         `,
         maxWidth: 300
