@@ -41,7 +41,7 @@
       const infoMorocco = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <p>Morocco</p>
+          <p>Chefchaouen and Fes, Morocco</p>
           <img width="100%" src="https://lh3.googleusercontent.com/PDPuh-z5MtFSZHuGqtimADrAJ9XPogHM0fEbqERknXEDqR91zsuC-UNO52u_uam1QUg97ao6zD-Xtn1yZgxUc6L2Hdfn0ctQ6q-rruaMzsWWUBATzr071oOgLlUDOn7eBX6_35ZE-hA=w2400">
           <img width="100%" src="https://lh3.googleusercontent.com/pH2iNFfSbEI-QrVXJ1Jgmn4Us6n_Ro4k70D_tbrlfnWpWp5H1IPLviPErns8hYbULRZv0_IJ_YiH_ExpnSkmG92eWsjVZNX39nABim-y1XBmGlWq9j6rj9sHsiiW9Ik7JXSzCV7biPM=w2400">
           <img width="100%" src="https://lh3.googleusercontent.com/8nijSMQ0xQkrPgtYTAHcul5FOHXpaixIoWudlv3gNueNakh3vfH8OJElzNGnXIAkxswk21nJihJHWgd2nU28U1UibQlu0SfYJLZpOYqwmSVTjQm8JhVVOYqbKYYd1yy1MQ0C0jUvgSc=w2400">        
@@ -74,11 +74,17 @@
       const infoSevilla = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <img width="50%" src="https://lh3.googleusercontent.com/2-zq8o3MDlSm2xfCISrXlFTvZrGdflQTiHjtPbJiz9tTvJVICnP-BzDckOYwsDfv94JJRLCdDY9e-GZJGFTP3_JWxuFUkCthORqHAl0DIl_gRMgPlG9abYYuC_OEIZ-z49KbW2Zctbs=w2400">
-          <p>Stuff about sevilla</p>
+          <p>Sevilla, Spain</p>          
+          <img width="100%" src="https://lh3.googleusercontent.com/2-zq8o3MDlSm2xfCISrXlFTvZrGdflQTiHjtPbJiz9tTvJVICnP-BzDckOYwsDfv94JJRLCdDY9e-GZJGFTP3_JWxuFUkCthORqHAl0DIl_gRMgPlG9abYYuC_OEIZ-z49KbW2Zctbs=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/cNBAOk6YLxQJsSyiWDdJ99giRAylF0M7liOeC5h_ToEV5kL1Y6EVJtCU-FLpguJEfNOyr685Hf1zho7PIcH7MQ7Jyi-Hq5e2pXIWPNqOtrQZKZ356vHwzAowBAxop4Av39lpBsDoV0s=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/vJRAhDcE07cMIqy7isEA5xUHYGRWEMusJsT3fahfIao_50gHbcIsT_HnFVkkJcCcwlf64lXljQEpuwQ_T23QMkohalb6ZTc1TPpR1gAtPVln-zSDgooahXsoH4XD-cFbml0u8mSSBqA=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/JklEv9SLkcIOJuvP5pGDgcfjQGvJOw28ay4ORjfWsHoeqOdlEEY11U4rNkB7C7mMw8QwS7O1IvFaRB-NNXBDnnBA4qRoFRohpX5obN18UBUemSg1FUvJDJANWilouUXBHmgg9B1chUE=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/5Valh-dXdaF8EA25ukSltZ7pS32cHikspY4ubVUFlZ9lEKz9X109rG1_R7v-M1o0chcirYvL3fxQ8J2D1BA6j9fV1sBAdppKpsWgFOmwp6nvK9TNk-9GFZR_rAQzNiiPVcMvAcj_nMs=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/34KalCDfYJlk02auJWrrW2ByA0f3Itlape6IJza_4DQa5Tcz5Rr8e1sUv-D-xEPhLZT6xAlVteUw5_ut8IWPZ3wMaqgKB3_2iN9B5eygJGo-UboLXhcU2Fp1qXibXlW6jeyThsB7Rmw=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/ALLl_EPKTJ2Gai3nsf5aLyaE2mZTh3wjQX4saRDRQSX03kagRt-YMGMLawhY5SyfArxTnlohnVaQdQVFPeu7mN35Ai-wAQ4fk6wGPa7BkzKznmEajc1S2ZMuqqjhojU4UQe6sYua_KA=w2400">
         </div>
         `,
-        maxWidth: 300
+        maxWidth: 500
       });
       var sevillaImg = {
         url: "https://lh3.googleusercontent.com/2-zq8o3MDlSm2xfCISrXlFTvZrGdflQTiHjtPbJiz9tTvJVICnP-BzDckOYwsDfv94JJRLCdDY9e-GZJGFTP3_JWxuFUkCthORqHAl0DIl_gRMgPlG9abYYuC_OEIZ-z49KbW2Zctbs=w2400",
