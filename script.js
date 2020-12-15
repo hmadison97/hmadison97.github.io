@@ -743,7 +743,7 @@
         maxWidth: 500
       });
       var ChicagoImg = {
-        url: "https://lh3.googleusercontent.com/Ck7RPd0GZsd58z6IfRge21sIjxplF334qc07NbJLHY7hGk3sG2QQj4XLgUTQMe1EhGyA4RDrep5qgMLEPYcx6iGbfgnCSvamuHsiE584t48uQkA4Uy37c_5WWK49AEscXZ2dP3wDnKU=w2400",
+        url: "https://lh3.googleusercontent.com/NTxVQnjP53DeEVYnw_n96mrnXgFwhczzvOduINVoxl8QZy2ZhDaPPMMDnyBtEmZw7JMbbaGyXuPcMNyIsiG6Js8TEY6gAksc28fsk_y_0rI2k2bQeaG2-rFaUG2RD1V7eDR3iuiqjJ4=w2400",
         scaledSize: new google.maps.Size(70, 70)
       }
       var myLatLng = new google.maps.LatLng(41.828338, -87.645909); //or wherever you want the marker placed
