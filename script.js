@@ -303,7 +303,7 @@
         maxWidth: 300
       });
       var wyImg = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/mxd8RTYSqVUnzJWZRKKFQ3t37h0n0xKRc7x98QeLzFnj8CtWKp8IBaRyhoV1pfjKChdkxRkBunNz_KN-rAEyrgTqv2rgLdWaDoDKgQIZbzpTLtV45kOt35ZA7FE0J75nMs6it4C6ClY=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(42.860654, -107.642928); //or wherever you want the marker placed
@@ -329,7 +329,7 @@
         maxWidth: 300
       });
       var coImg = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/P1uJcWwMx-wJt-uBTIkv7MgqOeg5Rd5oNASmbstsCVDN3tfur-XE3x3ci0sk7-QzHumhhzmxkUZwRnPSxHVT_gcbH5QZT-5fTWj6EY0i-so2D03xyqZAR8dFUlNpBPEChhWnOo7XGbY=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(38.426616, -105.764506); //or wherever you want the marker placed
@@ -354,7 +354,7 @@
         maxWidth: 300
       });
       var nmImg = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/f1MOZqubRgbvJD0pfyNjX_p-iq91SEsYz05qhJG19nm6LcecZ4KOIRwJArKBMQI58TTdIsafx48NoZivJDc7UKQBqVFs2yLEGecg0szzWO8mGmSd9IWqQzDmt-FKvUyBoJ_9tQM-_24=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(33.850678, -106.174570); //or wherever you want the marker placed
@@ -379,7 +379,7 @@
         maxWidth: 300
       });
       var utIMG = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/lDtIXYOxkNJk8eZsOs9WxfEVk_kquqDpAr7AHWQDrc0k0GVi-GtR9rte_dkDG8IUwB1WA3KGx4t_rLNC3nX2YPQuBPNdYhB93N6osC8YQ1e6nOaercrvfDGh88nKobxeZn8Js_ZAzSI=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(38.928575, -111.815590); //or wherever you want the marker placed
@@ -405,7 +405,7 @@
         maxWidth: 300
       });
       var azImg = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/JKLgvuagf7zJF1TRZY9EDbhZpomSuiDq-bM3el3ff5405Wo6yAbg_hgw_jcCCdBx0dwZZibj9T_9lOOD2EY5AxaZPKDYWeXK-AJ9pwp8EOHJUgAA2adFZnK1bbdoV8zWx8TKGPMwy9g=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(34.049039, -111.741706); //or wherever you want the marker placed
@@ -431,7 +431,7 @@
         maxWidth: 300
       });
       var caliImg = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/eqjv59XRkap5NNfpedVk5xv7Q9rRQl52k3BZt1ZgPUBZBbkTD8lraEeYqfF49211d_5qIRIeTQzet7JxuUMFxlju8iPAqC8UK7xOfbebWKJ4fRMQumT4msUbf6macdfsxii7VjZJ_Dw=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(36.362943, -119.771445); //or wherever you want the marker placed
@@ -456,7 +456,7 @@
         maxWidth: 300
       });
       var wasImg = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/ezzLmJb49oaBhWto8c2CM4hpW2xV4XCvbMEnt7Deh-pyBkucGS-hCm5BzQi-ZzKsmkrheSX86sJnLZ6T6pNPAJSfHErr9z7mIom36Gvs1dHZR2mY7sVvhfK89WPAbkOJ5akLQ5Nk5DI=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(47.210765, -119.998775); //or wherever you want the marker placed
@@ -482,7 +482,7 @@
         maxWidth: 300
       });
       var oregonImg = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/giapzSeISlqU-qB292Y7dwMNJTHRLkygOSk6FsfvFaEnR9b_j-g42zD7S-GKvYLFX7QtvajD2msMeJoPARWtniE8XUSViZdrut-DmxM4hdxH2XCmsJjRqfC1OIX4eloYNih1lr2FDgs=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(43.709256, -120.665154); //or wherever you want the marker placed
@@ -508,7 +508,7 @@
         maxWidth: 300
       });
       var sdImg = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/6fmpAqlORYzQKmxVn6R008MoqMLm54byDhCRzV4h4S2rwzCUjzcO3UbkowV8HXCKi-nkK_x02MPIqNf7t7_zlnm9M61xeIuk9tsUhDG1e91B606_r81lsOYX9s5VAQUNLh-nKSlbsaw=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(44.346214, -100.325449); //or wherever you want the marker placed
@@ -535,7 +535,7 @@
         maxWidth: 300
       });
       var HawaiiImg = {
-        url: "https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png",
+        url: "https://lh3.googleusercontent.com/chgL_yFph1t2AUuUc1u5L0lpmy1XQZaskH3jPzWEAuhfODvi-pRy-8unzl8fev75BtgBfowfaiy06Ha1nvHqCJi3euJWkZdXt-3Q6_4z14DY2P7PuCCik7VwRvVeyyrE5hMW8Bo-qnQ=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(20.783235, -156.337735); //or wherever you want the marker placed
