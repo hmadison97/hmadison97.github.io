@@ -549,5 +549,61 @@
       });
 
 
+        
+        
+             
+    // Canada
+      const infoCanada = new google.maps.InfoWindow({
+        content: `
+        <div style="margin: auto; text-align: center">
+          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
+          <p>Stuff about Canada</p>
+        </div>
+        `,
+        maxWidth: 300
+      });
+      var CanadaImg = {
+        url: "https://lh3.googleusercontent.com/2wRj15YQ3kUkYgQmftXIujpy7KQGBvKKbMwS5D8-B01YXhHWmiJ7cVDeJFYiR-Zw9lpOgQCx1saDbkvma5t5EWgPc-grDvTAe8NhLPTufjE63TIKUrpwX7d38olh3LKQlTMhuqlOUJE=w2400",
+        scaledSize: new google.maps.Size(50, 50)
+      }
+      var myLatLng = new google.maps.LatLng(54.485306, -98.679297); //or wherever you want the marker placed
+      var Canada = new google.maps.Marker({
+          position: myLatLng,
+          map: map,
+          icon: CanadaImg
+      });
+      Canada.addListener("click", () => {
+        infoCanada.open(map, Canada);
+      });
+
+
+        
+        
+       // Tennessee
+      const infoTennessee = new google.maps.InfoWindow({
+        content: `
+        <div style="margin: auto; text-align: center">
+          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
+          <p>Stuff about Tennessee</p>
+        </div>
+        `,
+        maxWidth: 300
+      });
+      var TennesseeImg = {
+        url: "https://lh3.googleusercontent.com/Ck7RPd0GZsd58z6IfRge21sIjxplF334qc07NbJLHY7hGk3sG2QQj4XLgUTQMe1EhGyA4RDrep5qgMLEPYcx6iGbfgnCSvamuHsiE584t48uQkA4Uy37c_5WWK49AEscXZ2dP3wDnKU=w2400",
+        scaledSize: new google.maps.Size(50, 50)
+      }
+      var myLatLng = new google.maps.LatLng(35.941726, -86.967826); //or wherever you want the marker placed
+      var Tennessee = new google.maps.Marker({
+          position: myLatLng,
+          map: map,
+          icon: TennesseeImg
+      });
+      Tennessee.addListener("click", () => {
+        infoTennessee.open(map, Tennessee);
+      });
+
+
+
 
     }
