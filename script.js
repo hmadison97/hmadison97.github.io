@@ -170,14 +170,20 @@
       const infoNewYork = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
-          <p>Stuff about New York</p>
+          <p>New York</p>          
+          <img width="100%" src="https://lh3.googleusercontent.com/yGljbmfWPEh_UVHF3JhphL-IbAGe2ih8KFhuZRCJsbVg7-__BBJbizRQKxidOGmdXfyAwb3KmB-GeUOQO17blkt03KNAVIAdwRFt8h6UFFHZ6_v5GPxgW9cNiC82joMFcXfsQnPNEOc=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/nkahaOFTgyK3Q-TR0U8bzta7JSJJ2c6KwqhXbe9bZU50wKO6XNKV3dP1kg5mkaaGAh98Hi3PrTm5xvWt40gvN34PpIUwwLAx-0LoZQ7U1HieAXbNfK5eB-Q9o1JUO6e4VXP4zVlF9Z8=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/u1R5qxtB46i9iS7gZO7Gdc_CGzWFtjgEZviCzpuoBIf8f_KIR3XsJKSG-4ypssgP7HMzAGh3fh9xFmAH3MH2UbZD3oTkFralnUgnaZ-eumCS2vPHS1ykeIYkKIFwzChN0CHng8cjJCs=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/Thv8s5zwJJZmfQ6PWt2-F6uBw96xoLEHjZdO7aWPL7ieKn5UP1GwDGVp7pVFawMJyXW4GdKzCy3YdIBvO1QqCyKTPdPkyr7qwB67s5uNMG3yQJnPKW3O6-EvwvupOxeZB8jpXPk4a3I=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/lYuae1xNsBl-1pTl9X1Jc1F7ico6eCdxtjl_BusabmgrpA-XKmxpp3lBruHqDLRTIcEnyDPE6fy3_2wzt7BI6onL5bFL9rQ7-opL6F6c0IK9_o8Mke6AwXHCUNentO5PflnDkZytP1M=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/RTkOgq-DG8HzkP1fpYm-svW14uMKckBYlZ4ss5TP3nT8vUk4w9Bvxs2nY2ZPaXfS5PHhBvPsDXp5p_lvZdGruoQ_h1Gj9KwaAFvWUEvPY9lzqaxk7kHx1dpP5do_QMr0ttE01LWDqFE=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/Eo5D6PW0DJcYLUerx7JTG0bDsIaQVmw7zXLILNp1XI9EXOiWEW44BB63HNj5gnS82vn-azXOoP09EMlitQp2H6ukqw8W1yjoU-T6ASHVijkio60kteDnDXxi1fB6BUw-P70i0PmMxX4=w2400">
         </div>
         `,
-        maxWidth: 300
+        maxWidth: 500
       });
       var newyorkImg = {
-        url: "https://lh3.googleusercontent.com/hbhBdH0LyGcDVngovki1DzpqyV5eJo7k8BeorQdqTgqCDa6WnjHew7_uzt5YK6vUex8WDWn-LSo1IvqXGyrtf1anTWRjJgckJl5SOWLEC_Tu11hbY9HSWffkmCvOpMXCuYFiT1YAa9U=w2400",
+        url: "https://lh3.googleusercontent.com/PJIQJ6ovH2eII7IjceaLKEfoO5pdpCkhh_yeHWuidkLmAd061lQgVuveB71UIQTupoU6cc2Y64zeQw8yFhsN5vA1oVBHy_xq0vDwb5jtdTA8ahBraerXYKDhJTOdtA3zqc2f2VIKxTA=w2400",
         scaledSize: new google.maps.Size(50, 50)
       }
       var myLatLng = new google.maps.LatLng(42.807471, -75.958392); //or wherever you want the marker placed
@@ -196,11 +202,14 @@
       const infoFlorida = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
-          <p>Stuff about Florida</p>
+          <p>Florida</p>          
+          <img width="100%" src="https://lh3.googleusercontent.com/3E9LW1MryKc4b5YwW3lqyy0r6EDxqScsl-U1vrOULJnV5HuSiine_rA1-wszTi367qnD8h5ZiJanHGBCGc3BsjkU57uP8sOMsbpEMGTI0I1hBMisp5v_QcqFbyWk33nvyY-Hby6CeGk=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/2Fz6Fn5zq_hh75oNLsyNqyGSHzPopHojN77Eu6GImw_3bb4JteONR_K8lnCY2nRbZQV9RD7ACVYvTHEEoW6oGt2GNkAVXzsGdHl1XI9JWwr9ojo3N7t5mYgqaux8lESdvi4mJTti4Ok=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/h7-LXMFaamXQwLLfwgKeWIGhkfsUNpeeKm5YOshksgEy-bdKcFL7DaJZDObUUYStOy3kL84oqlN3HfAZRLQMjBIbNz73j685wsm7QyX1LUEJzNbByh1BAWvuqZb94vZ29hKK9Yx1YP8=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/oY_EIWDm3YLIkE9rXgjV6QQoD7UkpFmpcvsYkAwrQjSLSgsg6Ssv1bvCPEYn1EtK0z2C2wzRnMtEAY8gJhiMCRcKlMbGtVZYBqU6Vzooo9VJpeN-pkUkJ7i-_qYtK-KNXCGiu_0RwH0=w2400">
         </div>
         `,
-        maxWidth: 300
+        maxWidth: 500
       });
       var floridaImg = {
         url: "https://lh3.googleusercontent.com/3E9LW1MryKc4b5YwW3lqyy0r6EDxqScsl-U1vrOULJnV5HuSiine_rA1-wszTi367qnD8h5ZiJanHGBCGc3BsjkU57uP8sOMsbpEMGTI0I1hBMisp5v_QcqFbyWk33nvyY-Hby6CeGk=w2400",
@@ -222,8 +231,8 @@
       const infoGeo = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
-          <p>Stuff about georgia</p>
+          <p>Georgia</p>          
+          <img width="100%" src="https://lh3.googleusercontent.com/dV_ZNGRWnDlayaM9di8qe4bOQL6ADjc6ruumiFg7ZsSzjNMxc-eDlFx_hYqHrJDKkiDc_-3jkmBfz2H-yoL_Y2-Fi1mw63qPto0bEKpk9mm4tcBKoWsHhBv-q_t5eOrk3ORBSjzQ43A=w2400">
         </div>
         `,
         maxWidth: 300
