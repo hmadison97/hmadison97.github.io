@@ -106,11 +106,17 @@
       const infoZan = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
-          <p>Stuff about Zanzibar</p>
+          <p>Zanzibar</p>        
+          <img width="100%" src="https://lh3.googleusercontent.com/446t73gfwQ7V7mtEEMb56j1Ot_SW9UkszaW6RXKWD0K_3fJj1ONPTZoFxQit5NUK8bjkNfTn2YYd1r7zy9NSphZVjmu5__gx24pFLS_NtPGSMFl8xkXI9kmVBXEOQmZpX_8rs2VW2Xs=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/0AtRg0ogSy0SudckzwvIRncUEQ1sJNX6kNipE4Ept9bzoE0kVamEKEdYyTsmIU6HQE1GjJ_3N2Eve-OYjl8Q46pkN3wm4v3IjGIWoxCb3IPqNranzvmyQGrgnZZ172wxbNkAUVvlAlU=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/Q_EMPkYbu05qk0Ev_B0F--ARm0XpPgswVQqb4MfZfjM9tzHiuGKQgPdHFlmLL8E21S0uubC2obm7gyMaNFLcr-onc3KpvBo06DQB9jezW_Wu1-TDEr39Y2BS0oWATaQFVSjACXcr7wU=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/86P4gw87hBobv8ZP75mGQdhy-Be-qS3LK6kaL5OKyzxkWRPZ0usjc2khvKngndC6wjgqfyRlgSQhbAWsEswU64-AxtSHTdaBCfrTAEAuE8T5KNEP4ywu_URW5N_gcYFnXnFh2v34g2g=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/xMLcOxr7e2OQph_770EQSQ-XZde58aeCPcEn13ktCo_-oiY3n3Ia-7iQigYKxZg5h-SLK6gKPbITAPO6YpiC_fM9jHzIWWZIf4dymDhnc1P8LQhawk3NlC5rtFxROTjSYwKSTHc0ju0=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/vsv2LFTfrK5_YRTOpaWfFhOHLVzgxDNLocLCzZs3gjqoza7nzCr_ts3c8fc_-gR4zEqLmMY4bF-Ixu2yIAePcZaktbrnGtvk8aqLjXQEqqfn_rx9iJ7ILhEvwohXhe5R563wcw8XvbI=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/qsu0KCNgW8CLStSYiy8___OqRAN3UniP42RMJzRDZij1nkLEkPH1fOiM8WR_6AewedQtkbl4AXVG0AJp2nlmcN-QMQZG99HL23qCMkyCEvq3LzKPBH9FfYCF5aH3APuwBgKP9WFeDq0=w2400">
         </div>
         `,
-        maxWidth: 300
+        maxWidth: 500
       });
       var zanImg = {
         url: "https://lh3.googleusercontent.com/446t73gfwQ7V7mtEEMb56j1Ot_SW9UkszaW6RXKWD0K_3fJj1ONPTZoFxQit5NUK8bjkNfTn2YYd1r7zy9NSphZVjmu5__gx24pFLS_NtPGSMFl8xkXI9kmVBXEOQmZpX_8rs2VW2Xs=w2400",
@@ -131,11 +137,19 @@
       const infoTan = new google.maps.InfoWindow({
         content: `
         <div style="margin: auto; text-align: center">
-          <img width="50%" src="https://cdn.pixabay.com/photo/2019/12/05/19/28/clip-art-4675943_1280.png">
-          <p>Stuff about Tanzania</p>
+          <p>Tanzania</p>          
+          <img width="100%" src="https://lh3.googleusercontent.com/pIUUlF2X4Fa-23Qj9eURJEMi43iRWwz0Y_D-aHZl96WPtkSzsxif6uvAyY8pOT4c5aHoA5ShlUijyetUp4SePbOI2YiXIpAk5706j5bvjgFo70tBWyKgtM9RkR5DPksjb2mhHAMSfZY=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/CeldpegLbbsDRdikIrUIrHFN46VA6eqa1wckWBDQMmYU3CGmY2iw4zFLSrkXW6NSUY37YNfHnrDQFGgMYjJju3jGo_iJYfmZiEGdFYdz4-_IstMIOr_d6Ey1nKXXsW1nDII-wbKEa-I=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/qmZmHhw_9ERDZ6Kh-LviK8LE4nkG9-siZDWbd0d7GGy0FxfhJ58DLhD8mnOsa1gGo-Bi_NjyoLLiOBu8CDlKIK_4oSc0vqpyP_QF7nOKdavYFkrSKnDdd8nN_i-W3FPMK1nWVKrYdnA=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/LBCEwYag7DFfB2kWM21wqoZNcoa9gsbNVkByvIoTFLMtsF4XnrcXtwwuc59rsqyzexKRmQ8Nim2766Ig09CDn4Poz75vc99rrhTcrOneNPeHElyM6y-cZ1OY-GtJT3arRAwuI_EkHN4=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/Fq2B9eYcewgPQenvKx6Ky3yxTjDaMPKRgkvB1cuJR_KxvUaCjqyth7KGkncWNx3MGRFaJoiEMinsjZLZUlt_eMy-pe8J_3d5QmdL_SguaiSnGTfQaFZ3X74W6KaZl5qAv-1UP9o2eJM=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/-ICHv58Uv2ka22_CX8eRK_bpfYl8nNbhsv1fIS69XxXWXiFatImjCr2Q_99b-peKLwlVWvjpRzDM4oBaGG8_yxEcfbxoPF04heKbVHzopDu2YZzqRyHt2ZXe-jziqQdOQWn4O9M_Img=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/l31wNhXsDJlgWpWMGZq-URuKSbVG9XklGwMJOgjUzjgr6h5qh0IImPRu2_9HV1jAs-VjrrHspwXAy7EfmvDmT3ULzjT5IPu5dd5WoT0LrfEuPD8WE6T_UagRxI6IJyY94z5zYMNb7lU=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/LoBoFX05TdkFWE2jUSqlr1DGBIlZRcM2k0IicdIbrvkxcbwfKMLo51ZhD5hJskLDW7XAKIoGFyUYpgWtLPAgi9RTB0l-Ah4Y56ab21Px6Ko8II-PLZNgP4ict5MLfNnUbsiDek2D754=w2400">
+          <img width="100%" src="https://lh3.googleusercontent.com/WozwEc6mqwOv26UG8zAGyCAba133JZp7E9Liur660iGTP2GihR7dy90lPUC_dO_TKt4bh9o4NK6qj1UIgGEzaSf0KHTdP1QWEZd0NcrllqBsQLXt5oG0P_E0iPT4CyoAeOMH-LHoec4=w2400">
         </div>
         `,
-        maxWidth: 300
+        maxWidth: 500
       });
       var tanImg = {
         url: "https://lh3.googleusercontent.com/pIUUlF2X4Fa-23Qj9eURJEMi43iRWwz0Y_D-aHZl96WPtkSzsxif6uvAyY8pOT4c5aHoA5ShlUijyetUp4SePbOI2YiXIpAk5706j5bvjgFo70tBWyKgtM9RkR5DPksjb2mhHAMSfZY=w2400",
