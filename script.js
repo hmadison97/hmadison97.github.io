@@ -8,7 +8,7 @@
         mapId: 'dacced91a4ed641b',
         gestureHandling: 'greedy',
         streetViewControl: false,
-        mapTypeId: google.maps.MapTypeId.TERRAIN,
+        // mapTypeId: google.maps.MapTypeId.TERRAIN,
         mapTypeControl: false,
       });
 
