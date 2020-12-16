@@ -141,6 +141,10 @@
         <div style="margin: auto; text-align: center">
           <p>Tanzania</p>          
           <img width="100%" src="https://lh3.googleusercontent.com/pIUUlF2X4Fa-23Qj9eURJEMi43iRWwz0Y_D-aHZl96WPtkSzsxif6uvAyY8pOT4c5aHoA5ShlUijyetUp4SePbOI2YiXIpAk5706j5bvjgFo70tBWyKgtM9RkR5DPksjb2mhHAMSfZY=w2400">
+          <video width="100%" controls>
+              <source src="video2.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
           <img width="100%" src="https://lh3.googleusercontent.com/CeldpegLbbsDRdikIrUIrHFN46VA6eqa1wckWBDQMmYU3CGmY2iw4zFLSrkXW6NSUY37YNfHnrDQFGgMYjJju3jGo_iJYfmZiEGdFYdz4-_IstMIOr_d6Ey1nKXXsW1nDII-wbKEa-I=w2400">
           <img width="100%" src="https://lh3.googleusercontent.com/qmZmHhw_9ERDZ6Kh-LviK8LE4nkG9-siZDWbd0d7GGy0FxfhJ58DLhD8mnOsa1gGo-Bi_NjyoLLiOBu8CDlKIK_4oSc0vqpyP_QF7nOKdavYFkrSKnDdd8nN_i-W3FPMK1nWVKrYdnA=w2400">
           <img width="100%" src="https://lh3.googleusercontent.com/LBCEwYag7DFfB2kWM21wqoZNcoa9gsbNVkByvIoTFLMtsF4XnrcXtwwuc59rsqyzexKRmQ8Nim2766Ig09CDn4Poz75vc99rrhTcrOneNPeHElyM6y-cZ1OY-GtJT3arRAwuI_EkHN4=w2400">
@@ -641,6 +645,10 @@
         <div style="margin: auto; text-align: center">
           <p>Hawaii</p>
           <img width="100%" src="https://lh3.googleusercontent.com/8f-YqFclQuHGYQav9nT56sM3aBf1OqCnFpmTkU4leZH9fkg2sTHeIRLavX1WqYjb8Y0UDDJYsSt4dw2ZdrgaNIpcV7jmf3SuOcVdEn8ZamGLfepecso3c9bOqrsRQbQH69c46Hzi3Bs=w2400">
+          <video width="100%" controls>
+              <source src="video1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+            </video>
           <img width="100%" src="https://lh3.googleusercontent.com/rmzSjbGXeaS2kT4FhUlY9QOuJPG9w6nm2V98oDDgA35d71Csl5XDgITkMROX6AHseysvPrCgbaPqufI6YEN2yI2sgKjTSNxn1cJwMQUSH7BGZTDJNBr69UXHhCXZpfkoKOUVtzuOJ9g=w2400">
           <img width="100%" src="https://lh3.googleusercontent.com/_tELI7SrrQVWtAJON8lcGa8hIyVI6M7DzpM1CzA9uxzy3y31DzAhFVehqP5o_LWQb6ezxs9p0tlH6A3YWOJeOiwwu73mqIthiQ9EJ-BNMU-U0iAiMSte3wkYK-fcRPCEx0ZDGz5rOXI=w2400">
           <img width="100%" src="https://lh3.googleusercontent.com/xPndNtnischzM2ysUFcQZ3V9URZi8VNAXsEWFJIuOKDDtfdnJdGkemmS9PINiBphyxruvTbMfbozPppWTq6Baph31o5kGfEv3rpNRre_oCEqJjlyXB0SjxSdHHgyun7R8OdQ-SRW8u4=w2400">
