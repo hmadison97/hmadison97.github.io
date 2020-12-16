@@ -5,10 +5,11 @@
       map = new google.maps.Map(document.getElementById('map'), {
         zoom: 2,
         center: {lat: 21.340627, lng: -32.729438},
+        mapId: 'dacced91a4ed641b',
         gestureHandling: 'greedy',
         streetViewControl: false,
         mapTypeId: google.maps.MapTypeId.TERRAIN,
-        mapTypeControl: false
+        mapTypeControl: false,
       });
 
       google.maps.event.addListener(map, "click", function(event) {
